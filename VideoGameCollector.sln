@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoGameCollector.Web", "VideoGameCollector.Web\VideoGameCollector.Web.csproj", "{5FF15896-108A-4230-A702-CBD1AF43563A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FF15896-108A-4230-A702-CBD1AF43563A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF15896-108A-4230-A702-CBD1AF43563A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF15896-108A-4230-A702-CBD1AF43563A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF15896-108A-4230-A702-CBD1AF43563A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05DA8EB7-96F5-4F4F-BB2D-27467E119770}
+	EndGlobalSection
+EndGlobal
